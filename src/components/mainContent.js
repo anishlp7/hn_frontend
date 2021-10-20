@@ -10,10 +10,10 @@ const MainContent = () => {
         <div className="subDetailStyle">
           <p>October 22nd 2021</p>
           <div className="">
-            <img alt="Heart" />
-            <img  alt="Heart" />
-            <img  alt="Heart" />
-            <img  alt="Heart" />
+            <img src="https://hn-backend.herokuapp.com/images/heart.png" alt="Heart" />
+            <img src="https://hn-backend.herokuapp.com/images/light.png"  alt="light" />
+            <img src="https://hn-backend.herokuapp.com/images/boat.png"  alt="ship" />
+            <img src="https://hn-backend.herokuapp.com/images/money.png"  alt="money" />
           </div>
         </div>
       </section>
